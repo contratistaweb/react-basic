@@ -1,6 +1,5 @@
 import React from "react";
 import './TodoItem.css';
-
 function TodoItem({ onComplete, deleteTodo, completedTodos, text}) {
   
     return (
